@@ -43,5 +43,6 @@ Introducing our Event Management System, a solution developed as part of our fin
 
 **The application should now be running. You can access it at http://localhost:5173**<br>
 **The Server is running on http://localhost:4000**
+**Made By : Aditee , NAnadani, Shailaja , Geetanjali**
 
 <h1>Thank You</h1>
